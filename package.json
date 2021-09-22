@@ -10,5 +10,8 @@
     "@resoc/create-img": "^0.5.2",
     "aws-sdk": "^2.991.0",
     "puppeteer": "^10.2.0"
+  },
+  "scripts": {
+    "start": "./run-resoc.sh"
   }
 }
