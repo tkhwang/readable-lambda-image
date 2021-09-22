@@ -1,0 +1,29 @@
+{
+  "partials": {
+    "content": "./content.html.mustache",
+    "styles": "./styles.css.mustache"
+  },
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text",
+      "demoValue": "Making the most boring website ever with TypeScript, NestJs, React and others."
+    },
+    {
+      "name": "siteName",
+      "type": "text",
+      "demoValue": "dev.to"
+    },
+    {
+      "name": "url",
+      "type": "text",
+      "demoValue": "https://dev.to/nordicbeaver/making-the-most-boring-website-ever-with-typescript-nestjs-react-and-others-17dg"
+    },
+    {
+      "label": "Image",
+      "name": "imageUrl",
+      "type": "imageUrl",
+      "demoValue": "https://readable-2021-dev.s3.ap-northeast-2.amazonaws.com/screenshot/background.jpg"
+    }
+  ]
+}
