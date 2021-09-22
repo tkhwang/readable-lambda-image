@@ -15,10 +15,15 @@
       "demoValue": "dev.to"
     },
     {
+      "name": "url",
+      "type": "text",
+      "demoValue": "https://dev.to/nordicbeaver/making-the-most-boring-website-ever-with-typescript-nestjs-react-and-others-17dg"
+    },
+    {
       "label": "Image",
       "name": "imageUrl",
       "type": "imageUrl",
-      "demoValue": ""
+      "demoValue": "https://readable-2021-dev.s3.ap-northeast-2.amazonaws.com/screenshot/background.jpg"
     }
   ]
 }
